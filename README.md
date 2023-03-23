@@ -7,4 +7,4 @@
 ![](doc/img/readme/2.png)
 ![](doc/img/readme/3.png)
 ![](doc/img/readme/4.png)
-![阿里代码规约扫描结果](doc/img/readme/阿里代码规约扫描结果.png)
+![阿里代码规约扫描结果](doc/img/readme/1.png)
