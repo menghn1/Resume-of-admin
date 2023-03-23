@@ -3,8 +3,9 @@
 2.访问目录改至public<br/>
 3.需要数据库联系微信:menghn_com
 </p>
-![](doc/img/readme/1.png)
-![](doc/img/readme/2.png)
-![](doc/img/readme/3.png)
-![](doc/img/readme/4.png)
+
 ![阿里代码规约扫描结果](doc/img/readme/1.png)
+
+![阿里代码规约扫描结果](doc/img/readme/2.png)
+![阿里代码规约扫描结果](doc/img/readme/3.png)
+![阿里代码规约扫描结果](doc/img/readme/4.png)
